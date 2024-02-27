@@ -18,7 +18,7 @@ public class FizzBuzzTest {
             "61", "62", "Fizz", "64", "Buzz", "Fizz", "67", "68", "Fizz", "Buzz",
             "71", "Fizz", "73", "74", "FizzBuzz", "76", "77", "Fizz", "79", "Buzz",
             "Fizz", "82", "83", "Fizz", "Buzz", "86", "Fizz", "88", "89", "FizzBuzz",
-            "91", "92", "Fizz", "94", "Buzz", "Fizz", "97", "98", "Fizz", "Buzz"
+            "91", "92", "Fizz", "94" , "Buzz", "Fizz", "97", "98", "Fizz", "Buzz"
         };
 
         for (int i = 1; i <= 100; i++) {
